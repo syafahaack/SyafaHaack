@@ -1,7 +1,8 @@
 ## Hi There 👋
 I am Syafa
-- 🔭 I’m living in Lübeck
-- 🌱 I’m currently learning web development
+- 🏡 living in Lübeck, Germany
+- 💻 currently learning web development
+- LinkedIn 👉 https://www.linkedin.com/in/syafa-atun-aisya-haack-045baa197/?originalSubdomain=de
 
 
 <!--
