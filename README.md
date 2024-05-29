@@ -9,7 +9,7 @@
   
 ![LinkedinBestLinkedinGIF](https://github.com/syafahaack/SyafaHaack/assets/170949508/b100d4ef-9fac-4762-9599-407cb6812e33)
 
-👉 https://www.linkedin.com/in/syafahack
+👉 www.linkedin.com/in/syafahaack
 
 
 <!--
