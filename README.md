@@ -20,7 +20,7 @@
       👉🏼 No [pronoun](https://en.wikipedia.org/wiki/Pronoun)  
       👉🏼 No [conjugation](https://en.wikipedia.org/wiki/Grammatical_conjugation)
 
-More about me 👉 [Syafa Haack](www.linkedin.com/in/syafahaack)
+More about me 👉 www.linkedin.com/in/syafahaack
 
 
 <!--
