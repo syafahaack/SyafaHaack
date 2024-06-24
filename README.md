@@ -3,9 +3,9 @@
 
 ![image](https://github.com/syafahaack/SyafaHaack/assets/170949508/67d4619f-0e90-4cbc-acbe-a45486c13bfb)
 
-- 👩🏻 a [Philomath](https://en.wikipedia.org/wiki/Philomath)
+- 👩🏻 a [philomath](https://en.wikipedia.org/wiki/Philomath)
 - 🏡 living in Lübeck, Germany
-- 💻 currently learning web development @[Neuefische](https://github.com/neuefische)
+- 💻 currently learning web development @[neuefische](https://github.com/neuefische)
 - 🗣️ speaking: Indonesian, [Javanese](https://en.wikipedia.org/wiki/Javanese_language), English, German (have learned Arabic, French, and Spanish)
 - 💙 interest: planting 🌱 photography 📷 exploring 🔍 experimenting new recipies 🥗
 
