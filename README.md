@@ -5,7 +5,6 @@
 
 - 👩🏻 a [philomath](https://en.wikipedia.org/wiki/Philomath)
 - 🏡 living in Lübeck, Germany
-- 💻 currently learning web development @[neuefische](https://github.com/neuefische)
 - 🗣️ speaking: Indonesian, [Javanese](https://en.wikipedia.org/wiki/Javanese_language), English, German (have learned Arabic, French, and Spanish)
 - 💙 interest: planting 🌱 photography 📷 exploring 🔍 experimenting new recipies 🥗
 
